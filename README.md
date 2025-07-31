@@ -4,12 +4,6 @@ Jogo simples e interativo onde o jogador deve adivinhar um número aleatório en
 
 ---
 
-## 📸 Demonstração
-
-> (Adicione aqui um print da interface do jogo ou um GIF mostrando o funcionamento)
-
----
-
 ## 🚀 Funcionalidades
 
 - Geração de número aleatório entre 1 e 10
